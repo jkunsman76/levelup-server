@@ -1,0 +1,14 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "description": "ALGS",
+            "date": "2022-05-05",
+            "time": "16:00",
+            "organizer": 1
+
+        }
+    }
+]
